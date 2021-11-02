@@ -6,7 +6,7 @@
  .container{
         width: 839px;
     height: 1025px;
-     /* border: 1px solid black; */
+      border: 1px solid black; 
      margin: 0px auto;
      background-color: #e9f0efb9;;
  }
